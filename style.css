@@ -1,0 +1,105 @@
+h1 {
+    color: white;
+    margin-left: 5%;
+}
+body {
+    background-image: linear-gradient(to right,rgb(24, 19, 19),rgb(6, 113, 29));
+}
+nav {
+    list-style-type: none;
+    color: white;
+    margin-left: 50%;
+    position: absolute;
+    top: 30px;
+}
+a {
+    gap: 10px;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    transform: translateX(-30px);
+}
+a:active {
+    color: rgb(161, 145, 145);
+}
+.goblins00 {
+    position: absolute;
+    height: 400px;
+    margin-left: 55%;
+    position: absolute;
+    top: 100px;
+    box-shadow: rgb(92, 177, 7);
+}
+.trending {
+    color: white;
+    margin-left: 19%;
+    margin-top: 100px;
+}
+p {
+    margin-left: 19%;
+    margin-top: 25px;
+    color: white;
+}
+h2 {
+    font-family: 'permanent marker', cursive;
+    line-height: 1;
+    font-size: 60px;
+    color: white;
+    margin-left: 19%;
+}
+main {
+    color: white;
+    margin-left: 19%;
+    margin-bottom: 2px;
+}
+.btn {
+    margin-left: 19%;
+    margin-top: 30px;
+}
+.btn-comp {
+    border-radius: 80px;
+    background-color: rgb(64, 117, 64);
+    color: white;
+    font-weight: bolder;
+    gap: 5px;
+    padding: 2opx;
+    border: none;
+    height: 40px;
+    width: 100px;
+    font-size: 12px;
+}
+.btn-gameplay {
+    border-radius: 80px;
+    background-color: transparent;
+    color: white;
+    font-weight: bolder;
+    gap: 5px;
+    padding: 2opx;
+    border-color: whitesmoke;
+    height: 40px;
+    width: 200px;
+    font-size: 12px;
+    margin-left: 20px;
+}
+.icons {
+    list-style-type: none;
+    color: whitesmoke;
+    position: fixed;
+}
+.ig:hover {
+    color: rgb(189, 69, 69);
+    transform: translateY(2px);
+}
+.ytube:hover {
+    color: red;
+    transform: translateY(2px);
+}
+.snap:hover {
+    color: yellow;
+    transform: translateY(2px);
+}
+#faso {
+    margin-right: 10px;
+}

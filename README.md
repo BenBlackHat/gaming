@@ -3,7 +3,7 @@
 A responsive frontend landing page for Clash of Clans game statistics, featured troop showcases, and community links.
 
 ## 🚀 Live Demo
-[View Live Site](https://<your-github-username>.github.io/BenBlackHat/gaming
+[View Live Site] https://benblackhat.github.io/gaming/
 
 ## 📌 Features
 - **Featured Showcase:** Spotlight sections for troops like Goblins with action callouts.
